@@ -68,6 +68,14 @@ show seedata in the output
 
 open Costers.cs file
 and add date and price code to show ideal output
+Add AnchorTagHelper from the tutorial
+application run successfully
+
+0600
+Add AboutUs.cshtml file in hime in the view folder
+write CoastersFactory description in the Aboutus page
+add about us page in the Layout.cshtml file in shared folder
+link AboutUs page in homecontroller
 
 
 
