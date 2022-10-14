@@ -77,6 +77,9 @@ write CoastersFactory description in the Aboutus page
 add about us page in the Layout.cshtml file in shared folder
 link AboutUs page in homecontroller
 
+0628
+committ all changes on the GitHub
+
 
 
 
