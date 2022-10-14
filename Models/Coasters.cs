@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CoastersFactory.Models
 {
@@ -14,8 +15,11 @@ namespace CoastersFactory.Models
         public string Color { get; set; }
         public string Size { get; set; }
         public string Shape { get; set; }
+
+        [Column(TypeName = "decimal(18, 2)")]
         public decimal Price { get; set; }
 
+        [Display(Name = "Release Date")]
         [DataType(DataType.Date)]
         public DateTime ReleaseDate { get; set; }
 

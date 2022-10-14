@@ -49,4 +49,30 @@ run CoastersFactory Web app.
 
 Its successfully run i can add data in to database.
 
+0510 pm
+Cheack database dbo.Coasters
+cheack view designer and view data from SQL Server Object Explorer.
+
+0514pm
+Create a new class named SeedData in the model folder
+add library files in the sedddata class and change code related to my product.
+Add the seed initializer
+write Program.cs code from the tutorial.
+run CoastersFactory web application
+seeddata cannot show because i forget to delete old data 
+run web application and delete old data
+ 
+Run again
+Now its successfully run
+show seedata in the output
+
+open Costers.cs file
+and add date and price code to show ideal output
+
+
+
+
+
+
+
 
