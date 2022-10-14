@@ -1,0 +1,52 @@
+﻿14 Oct 2022
+Yesterday 13 oct 2022 i started assignmnet and complete till step 4 but I forget user account authentication
+so when run my application it cannot connect with database
+I got this error
+"SqlException: Cannot open database "CoastersFactoryContext-1" requested by the login. The login failed. Login failed for user 'ACAD\W0791689'."
+I delete my web application from the repository and start again
+
+14 oct 2022 
+Today I started assignmnet again from scratch 
+again i get error while scaffolding 
+it genrate two controller class 
+again i delete project
+start again
+
+Before the 14 Oct Lecture
+
+After attending lecture 14 oct 2022 lecture
+﻿
+14 oct 2022
+0434 pm
+Program Created by : Parth Vandra
+Purpose: creating a default ASP.NET core web app whch name is CoastersFactory
+using .NET core 3.1 
+user account authentication 
+HTTPS selected
+
+0445pm
+after creting project i direct start step 4
+add model which name is Coasters.cs
+add properties of Coasters
+add nuget packeges and update.
+Create a Data folder and create CoastersFactoryContext.cs file
+write code from the tutorial 
+add library file in startup.cs file
+write code for configureservices
+Add a connection string to the appsettings.json file
+
+start scaffold
+to create crud pages create,Read, Update, and Delete
+Add Scaffold dialog
+select MVC Controller with views, using Entity Framework
+Complete the Add Controller dialog
+scaffold complete.
+
+start migration
+run migration command in console
+migration complete
+run CoastersFactory Web app.
+
+Its successfully run i can add data in to database.
+
+
