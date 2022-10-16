@@ -25,6 +25,8 @@ namespace CoastersFactory.Models
 
                 context.Coasters.AddRange(
 
+                    // Add 10 data of CoastersFactory 
+
                     new Coasters
                     {
                         BrandName = "Jeam Beam",

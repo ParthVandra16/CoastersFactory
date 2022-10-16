@@ -29,7 +29,7 @@ namespace CoastersFactory
         {
             services.AddDbContext<CoastersFactoryContext>(options =>
                 options.UseSqlServer(
-                    Configuration.GetConnectionString("CoastersFactoryContext")));
+                    Configuration.GetConnectionString("CoastersFactoryContext"))); //  write my Project context name CoastersFactoryContext to connect database
             services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<CoastersFactoryContext>();
             services.AddControllersWithViews();

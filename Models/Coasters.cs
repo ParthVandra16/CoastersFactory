@@ -9,6 +9,7 @@ namespace CoastersFactory.Models
 {
     public class Coasters
     {
+        // add properties  of Coasters
         public int Id { get; set; }
         public string BrandName { get; set; }
         public string Material { get; set; }

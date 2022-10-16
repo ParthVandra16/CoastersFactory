@@ -23,12 +23,12 @@ namespace CoastersFactory.Controllers
             return View();
         }
 
-        public IActionResult AboutUs()
+        public IActionResult AboutUs()  // write code to link about us page
         {
             return View();
         }
 
-        public IActionResult Product()
+        public IActionResult Product()  // write code to link Product page
         {
             return View();
         }

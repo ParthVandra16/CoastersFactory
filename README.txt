@@ -96,6 +96,9 @@ update index.cshtml file, welcome message to CoastersFactory
 add information of coaters factory in aboutus page 
 add more data in seeddata file.
 
+1208 am
+Add comments
+
 
 
 
