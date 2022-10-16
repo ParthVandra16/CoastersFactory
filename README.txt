@@ -88,6 +88,11 @@ Clone repostory from GitHub
 Run web application to cheack its work properly or not
 Its run.
 
+1120 am
+I add new product.cshtml file in home folder in views
+link product page into the layout.cshtml and homecontroller.cs file
+update index.cshtml file, welcome message to CoastersFactory
+
 
 
 
