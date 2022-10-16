@@ -58,6 +58,7 @@ cheack view designer and view data from SQL Server Object Explorer.
 0514pm
 Create a new class named SeedData in the model folder
 add library files in the sedddata class and change code related to my product.
+Add 10 data of my Product
 Add the seed initializer
 write Program.cs code from the tutorial.
 run CoastersFactory web application
@@ -92,6 +93,10 @@ Its run.
 I add new product.cshtml file in home folder in views
 link product page into the layout.cshtml and homecontroller.cs file
 update index.cshtml file, welcome message to CoastersFactory
+add information of coaters factory in aboutus page 
+add more data in seeddata file.
+
+
 
 
 

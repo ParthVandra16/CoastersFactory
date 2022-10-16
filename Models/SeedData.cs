@@ -24,6 +24,20 @@ namespace CoastersFactory.Models
                 }
 
                 context.Coasters.AddRange(
+
+                    new Coasters
+                    {
+                        BrandName = "Jeam Beam",
+                        Material = "Rubber",
+                        Color = "Black",
+                        Size = "Medium",
+                        Shape = "Circle",
+                        Price = 550,
+                        ReleaseDate = DateTime.Parse("2021-1-29"),
+                        Rating = 5
+
+                    },
+
                     new Coasters
                     {
                         BrandName = "Adidas",
@@ -71,6 +85,56 @@ namespace CoastersFactory.Models
                         Price = 2500,
                         ReleaseDate = DateTime.Parse("2022-8-16"),
                         Rating = 3
+                    },
+
+                    
+
+                    new Coasters
+                    {
+                        BrandName = "BMW",
+                        Material = "Rubber",
+                        Color = "Blue",
+                        Size = "Small",
+                        Shape = "Square",
+                        Price = 250,
+                        ReleaseDate = DateTime.Parse("2008-10-25"),
+                        Rating = 4
+                    },
+
+                    new Coasters
+                    {
+                        BrandName = "Gap",
+                        Material = "Plastic",
+                        Color = "Yellow",
+                        Size = "Medium",
+                        Shape = "Circle",
+                        Price = 900,
+                        ReleaseDate = DateTime.Parse("1998-5-1"),
+                        Rating = 4
+                    },
+
+                    new Coasters
+                    {
+                        BrandName = "JP",
+                        Material = "Wooden",
+                        Color = "Teal",
+                        Size = "Small",
+                        Shape = "Triangle",
+                        Price = 100,
+                        ReleaseDate = DateTime.Parse("2004-1-3"),
+                        Rating = 3
+                    },
+
+                    new Coasters
+                    {
+                        BrandName = "Nike",
+                        Material = "Wooden",
+                        Color = "White",
+                        Size = "Small",
+                        Shape = "Triangle",
+                        Price = 350,
+                        ReleaseDate = DateTime.Parse("2005-10-30"),
+                        Rating = 4
                     },
 
                     new Coasters
