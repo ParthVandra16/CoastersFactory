@@ -98,7 +98,7 @@ add more data in seeddata file.
 
 1208 am
 Add comments
-apply css in layout.cshtml fle
+apply css in layout.cshtml fle.
 add image in index page and product page.
 
 
