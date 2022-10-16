@@ -15,6 +15,8 @@ start again
 Before the 14 Oct Lecture
 
 After attending lecture 14 oct 2022 lecture
+
+Create GitHub repository name CoastersFactory
 ﻿
 14 oct 2022
 0434 pm
@@ -79,6 +81,12 @@ link AboutUs page in homecontroller
 
 0628
 committ all changes on the GitHub
+
+16 Oct 2022
+1112 am
+Clone repostory from GitHub
+Run web application to cheack its work properly or not
+Its run.
 
 
 
