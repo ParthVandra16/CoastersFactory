@@ -29,7 +29,7 @@ namespace CoastersFactory.Models
 
                     new Coasters
                     {
-                        BrandName = "Jeam Beam",
+                        BrandName = "Jim Beam",
                         Material = "Rubber",
                         Color = "Black",
                         Size = "Medium",
