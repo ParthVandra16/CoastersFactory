@@ -106,6 +106,9 @@ update index, about and product page
 change images 
 update readme.
 
+17 oct 2022
+change font
+assignment1 complete
 
 
 
