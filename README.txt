@@ -101,7 +101,7 @@ Add comments
 apply css in layout.cshtml fle.
 add image in index page and product page.
 
-1642 pm
+0642 pm
 update index, about and product page 
 change images 
 update readme.
